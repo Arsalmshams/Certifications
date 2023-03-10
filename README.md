@@ -10,7 +10,7 @@
 - Data Analysis with R Programming
 - Google Data Analytics Capstone Project
 
-### Python for Data Science and Machine Learning Bootcamp
+### Python for Data Science and Machine Learning
 - Numpy
 - Pandas
 - Matplotlib
